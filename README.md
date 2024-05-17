@@ -9,4 +9,5 @@
 2. Now watch as your characters battle to the death.
 3. After a couple of dramatic turns, only one charecter is victorious.
 ## Extras
-This is one of my old games wich I spruced up a bit.
+This is one of my old games wich I spruced up a bit.  
+Game originally made in [Replit](https://replit.com/@23toleikisa/Character-Battle-Generator?v=1#README.md)
